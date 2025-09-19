@@ -1,0 +1,316 @@
+Listing format indices. Note that these indices may change across Noesis instances.
+	0 - Unknown
+	1 - WaveFront OBJ
+	2 - md5mesh (Doom 3, Prey, etc.)
+	3 - md5anim (Doom 3, Prey, etc.)
+	4 - 3D Studio Max ASE
+	5 - Quake III BSP
+	6 - Quake 1/Half-Life BSP
+	7 - Animlist
+	8 - FF7 PSX Battle Model
+	9 - FF8 Battle Model
+	10 - FF10/FF10-2 Model
+	11 - FF10/FF10-2 Animation
+	12 - DCTEXPAK Textures
+	13 - Doom 3 Engine Proc File
+	14 - RDM (model)
+	15 - RDA (anim)
+	16 - Valve SMD
+	17 - GMO Model/Animation
+	18 - YMO Model
+	19 - FF13/FF13-2 Model
+	20 - FF13/FF13-2 Animation
+	21 - FF13/FF13-2 Graphics Bundle
+	22 - DOAX2/NG2 Model
+	23 - Sword of the Berserk Model
+	24 - Love Hina: Smile Again Model
+	25 - Skies of Arcadia Model
+	26 - Ninja Chunk Model
+	27 - Ninja Model Motion
+	28 - Grandia 2 Model/Data
+	29 - Record of Lodoss War Model
+	30 - Heretic 2 FM Model
+	31 - SiN SBM Model
+	32 - SiN SAM Frame Data
+	33 - Space Channel 5 DC Model
+	34 - Sonic Shuffle Model
+	35 - Noesis Scene File
+	36 - RDM Frankenstein
+	37 - SC4/T6 Model
+	38 - TC:RS Model
+	39 - NS:UNS2 Model
+	40 - DMC4/RE5/LP Model
+	41 - MVC3 Model
+	42 - Bouncer Model
+	43 - 3D Studio Max Binary
+	44 - Stanford PLY
+	45 - Quake III MD3
+	46 - Source MDL
+	47 - Quake MDL
+	48 - P4G Vita Model
+	49 - Half-Life .map
+	50 - RIM Image
+	51 - DMC4/RE5/etc. Tex Image
+	52 - Ninja-style PVR Image
+	53 - Ninja PVP Palette
+	54 - Record of Lodoss War TEX
+	55 - KOS Dreamcast Image
+	56 - TIM2 Image
+	57 - GIM Image
+	58 - TIM Image
+	59 - Bouncer Texture
+	60 - ThemePark Image
+	61 - TGA Image
+	62 - JPEG Image
+	63 - Stereo JPS Image
+	64 - Stereo MPO Image
+	65 - Icon Image
+	66 - BMP Image
+	67 - M8 Image
+	68 - VTF Image
+	69 - Quake SPR
+	70 - Quake LMP
+	71 - Dreamcast PVM Textures
+	72 - Text Sprite Set
+	73 - DDS Image
+	74 - PNG Image
+	75 - ARC2.0 container
+	76 - PBP container
+	77 - BND container
+	78 - BND305 container
+	79 - THFS container
+	80 - HED/WAD container
+	81 - XPK container
+	82 - Windows Portable Executable
+	83 - ARC container
+	84 - TBD container
+	85 - DAT/.1 container
+	86 - ZARC container
+	87 - ISO container
+	88 - FF10/FF10-2 Disc Image
+	89 - FF12 Disc Image
+	90 - BSBM Mk2 BND
+	91 - Desert Strike container
+	92 - The Bouncer container
+	93 - War Gods PC DAT
+	94 - Record of Lodoss War 1NOSDC.BIN
+	95 - Tales of VS MGZ
+	96 - FTR container
+	97 - FF13 container
+	98 - ARC zlib/xmem container
+	99 - RZL+RZP container
+	100 - Quake/Half-Life/etc. PAK
+	101 - LithTech REZ container
+	102 - FPK container
+	103 - BNR container
+	104 - U8 container
+	105 - TS:RS container
+	106 - Evangelion: Jo container
+	107 - NI/NA container
+	108 - GCF container
+	109 - FF8IMG container
+	110 - FF8 FS container
+	111 - CPK container
+	112 - AFS container
+	113 - Autodesk FBX
+	114 - Multi-FBX Anim Sequence
+	115 - Bayonetta/PG Model
+	116 - Duke Nukem Forever DAT
+	117 - Duke Nukem Forever Model
+	118 - Duke Nukem Forever Static Model
+	119 - Duke Nukem Forever Anim
+	120 - Doom Wad
+	121 - FF9 IMG
+	122 - FF9DB Package
+	123 - FF9 Model
+	124 - FF9 Animation
+	125 - FX Fighter DAT Model
+	126 - GIF Image
+	127 - EXR Image
+	128 - Metroid Prime container
+	129 - BioVision Hierarchy Anim
+	130 - ASTC Image
+	131 - Bullet Witch CPR Model/Textures
+	132 - Desert Strike Graphic
+	133 - Duke3D GRP Archive
+	134 - Duke3D ART Images
+	135 - PKM Image
+	136 - Gamebryo NIF
+	137 - Gamebryo KF
+	138 - GoldenEye N64 ROM
+	139 - GoldenEye N64 Images
+	140 - GoldenEye N64 Map
+	141 - GoldenEye N64 Model
+	142 - GoldenEye N64 Animations
+	143 - Ghost of Tsushima Texture [PC]
+	144 - Ghost of Tsushima Texture [PC]
+	145 - PVRTC Image
+	146 - Quake II BSP
+	147 - Quake II WAL Texture
+	148 - RE Engine MESH [PC]
+	149 - RE Engine Texture [PC]
+	150 - RE Engine UVS [PC]
+	151 - RE Engine SCN [PC]
+	152 - RE Engine MOTLIST [PC]
+	153 - RE2 Remake Texture [PC]
+	154 - RE2 MESH
+	155 - RE3 Remake Texture [PC]
+	156 - RE3 MESH
+	157 - Devil May Cry 5 Texture [PC]
+	158 - DMC5 MESH
+	159 - RE8 / ReVerse Texture [PC]
+	160 - ReVerse MESH
+	161 - RE8 MESH
+	162 - MHRise Texture [PC]
+	163 - MHRise Sunbreak MESH
+	164 - Resident Evil 7 Texture [PC]
+	165 - RE2,3 RayTracing Texture [PC]
+	166 - RE7 RayTracing Texture [PC]
+	167 - RE2+3 RayTracing MESH
+	168 - RE7 RayTracing MESH
+	169 - Street Fighter 6 Texture [PC]
+	170 - Street Fighter 6 Mesh
+	171 - RE4 Remake Texture [PC]
+	172 - RE4 Remake Mesh
+	173 - ExoPrimal Texture [PC]
+	174 - ExoPrimal Mesh
+	175 - Apollo Justice: Ace Attorney Trilogy Texture [PC]
+	176 - Apollo Justice: Ace Attorney Trilogy Mesh
+	177 - Dragon's Dogma 2 Texture [PC]
+	178 - Dragon's Dogma 2 Mesh
+	179 - Dead Rising DR Texture [PC]
+	180 - M32 Image
+	181 - UE4 Archive
+	182 - UE4 Asset
+	183 - Ultima Online UOP Archive
+	184 - Ultima Online MUL Archive
+	185 - Ultima Online Anim
+	186 - Ultima Online Gump
+	187 - Ultima Online Tex
+	188 - Ultima Online Art Tile
+	189 - Ultima Online Multi-Tile
+	190 - Ultima Online Map
+	191 - Ys AIA
+	192 - COLLADA
+	193 - Standard Tessellation Language Model
+	194 - JK1 GOB Archive
+	195 - JK1 MAT Image
+	196 - JK1 3DO Model
+	197 - JK1 KEY Animation
+	198 - JK1 JKL Model
+	199 - CV:DXC RES Archive
+	200 - Half-Life MDL Model
+	201 - SH:H PAK Archive
+	202 - SH:H SYT Texture
+	203 - SH:H MDL Model
+	204 - Stainless WAD Archive
+	205 - Stainless TDX Texture
+	206 - Stainless MDL Model
+	207 - Stainless CNT Model
+	208 - Zip Archive
+	209 - Quake 3 PK3 Archive
+	210 - Stainless ZAD Archive
+	211 - EB Binary
+	212 - EB-PBP Binary
+	213 - PKG Archive
+	214 - FF11 Model/Data
+	215 - FF11 Dat Set
+	216 - FF11 SQLE Model
+	217 - FF12 Model
+	218 - FF12 Animation
+	219 - FF15 Textures
+	220 - FF15 Model
+	221 - FF15 Animation
+	222 - FF15 Animation Pack
+	223 - FF15 Archive
+	224 - Death by Degrees Model
+	225 - NARC Archive
+	226 - NUDP Raw Model
+	227 - Quake Saturn PIC
+	228 - Quake Saturn LEV
+	229 - LiDAR (Noesis) Model
+	230 - LiDAR (LAS) Model
+	231 - Battlezone GEO Model
+	232 - Battlezone VDF/SDF Model
+	233 - Battlezone ZFS Archive
+	234 - Radiance HDR
+	235 - Tokyo Jungle Model
+	236 - Tokyo Jungle Archive
+	237 - SotN Zone
+	238 - JPEG 2000 Codestream
+	239 - JPEG 2000 Image
+	240 - GHOUL2 Model
+	241 - GHOUL2 Animation
+	242 - GHOUL Model
+	243 - KVX Voxel Model
+	244 - VOX Voxel Model
+	245 - MRI - Analyze 7.5
+	246 - MRI - NIfTI-1
+	247 - MRI - DICOM
+	248 - MRI - DICOM Volume Set
+	249 - Duke3D Map
+	250 - Plague Tale Archive
+	251 - Plague Tale Audio Archive
+	252 - Plague Tale Texture
+	253 - Plague Tale Mesh
+	254 - Plague Tale Model
+	255 - Plague Tale Map Chunk
+	256 - Plague Tale Animation
+	257 - RW DFF (very old version)
+	258 - RW BSP (very old version)
+	259 - Roomba Model
+	260 - glTF Model
+	261 - glTF Binary Model
+	262 - GXT Image
+	263 - GNF Image
+	264 - CTPK Image
+	265 - GTX Image
+	266 - FO4 Archive
+	267 - VPK Archive
+	268 - PSA Archive
+	269 - HFS Archive
+	270 - NG2 Archive
+	271 - XEX2 Binary
+	272 - Bujingai Model/Texture
+	273 - Bujingai compressed bin
+	274 - Blood RFF Archive
+	275 - Blood Map
+	276 - Messiah Model
+	277 - PLY2 Model
+	278 - Quake II PSX Proto Editor Model
+	279 - Quake II PSX Model
+	280 - Chopper Mega Drive
+	281 - DeluxePaint Image
+	282 - DeluxePaint Animation
+	283 - Digitizer III Image
+	284 - TED Image
+	285 - Animator FLC Image
+	286 - BNTX Image
+	287 - Dead Cells Archive
+	288 - Dead Cells Sprites
+	289 - FF7 Crisis Core container
+	290 - FF7 Crisis Core Model
+	291 - FF7 Crisis Core Animation
+	292 - PE:T3B container
+	293 - PE:T3B Model/Texture/Animation
+	294 - FF Type-0 Model/Texture
+	295 - FF Type-0 Animation
+	296 - FF Type-0 Pack
+	297 - Chasm Archive
+	298 - Chasm CEL Image
+	299 - Chasm 3O Model
+	300 - Chasm ANI Animation
+	301 - Chasm CAR Model
+	302 - Chasm Floor Images
+	303 - Chasm Map Model
+	304 - PCX Image
+	305 - Inter-Quake Model
+	306 - Quake II MD2
+	307 - Kingpin MDX
+	308 - EF/Raven MDR
+	309 - Shadow Hearts Models/Anims
+	310 - Saint Seiya: The Hades GMI Model
+	311 - Saint Seiya: The Hades TPL Images
+	312 - DQ&FF in Itadaki Street Special JOB
+	313 - Unreal ActorX Model
+	314 - Unreal ActorX Animation
